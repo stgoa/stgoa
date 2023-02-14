@@ -11,8 +11,8 @@
 
 🔍 **Interests**:
 
-* Machine/Deep Learning.
-* Optimization
+* Machine/Deep Learning,
+* Mathematical Optimization,
 * Cloud computing, Big Data.
 
 
