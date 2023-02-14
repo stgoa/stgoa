@@ -2,7 +2,9 @@
 
 - **Name**: Santiago Armstrong
 - **Email**: santiagoarmstrong@gmail.com
-- **Curriculum Vitae**: [link](https://registry.jsonresume.org/stgoa)
+- **Curriculum Vitae**:
+  - [PDF](https://drive.google.com/file/d/19aJRA5-hKIfaCMO3dAtRWR5vbOLihQXJ/view?usp=sharing)
+  - [JsonResume](https://registry.jsonresume.org/stgoa)
 - **LinkedIn**: [link](https://www.linkedin.com/in/santiago-armstrong/)
 - **Google Scholar**: [link](https://scholar.google.com/citations?user=_VV7RLwAAAAJ&hl=en)
 
