@@ -37,7 +37,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Pycharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Pycharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=code&logoColor=black&color=black&labelColor=green)
+![VS Code](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=black&labelColor=green)
 
 
 ## **Certifications**
