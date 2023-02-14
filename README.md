@@ -13,7 +13,7 @@
 
 * Machine/Deep Learning,
 * Mathematical Optimization,
-* Cloud computing, Big Data.
+* Cloud Computing, Big Data.
 
 
 ## **My Tech Stack**
