@@ -26,10 +26,9 @@
 ![TF Badge](https://img.shields.io/badge/TensorFlow-100000?style=for-the-badge&logo=TensorFlow&logoColor=orange)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Conda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Poetry Badge](https://img.shields.io/badge/poetry-342B029.svg?&style=for-the-badge&logo=poetry&logoColor=blue&color=lightgrey)
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-2311AB00?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![poetry](https://img.shields.io/badge/Poetry-100000?style=for-the-badge&logoColor=blue&color=lightgrey&labelColor=blue&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UG9ldHJ5PC90aXRsZT48cGF0aCBkPSJNMjEuNjA0IDBhMTkuMTQ0IDE5LjE0NCAwIDAgMS01LjI2OCAxMy4yMTNMMi4zOTYgMGwxMy41ODMgMTMuNTgzYTE5LjE0OSAxOS4xNDkgMCAwIDEtMTMuNTgzIDUuNjI0VjBoMTkuMjA4Wm0tMS45MTEgMTcuMjk3QTI0LjQ1NSAyNC40NTUgMCAwIDEgNy4xODkgMjRsLTQuMDUzLTQuMDUzYTE5LjkxIDE5LjkxIDAgMCAwIDEzLjM3LTUuODM4bDMuMTg3IDMuMTg4WiIvPjwvc3ZnPg==)
 
 ### Cloud
 
