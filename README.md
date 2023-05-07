@@ -13,7 +13,8 @@
 
 * Machine/Deep Learning,
 * Mathematical Optimization,
-* Cloud Computing, Big Data.
+* Cloud Computing, Big Data
+* Chess ♟️
 
 
 ## **My Tech Stack**
@@ -29,6 +30,8 @@
 ![Poetry Badge](https://img.shields.io/badge/poetry-342B029.svg?&style=for-the-badge&logo=poetry&logoColor=blue&color=black)
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-2311AB00?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+Learning C++ 😊
 
 ### Cloud
 
