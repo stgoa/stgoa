@@ -14,7 +14,7 @@
 * Machine/Deep Learning,
 * Mathematical Optimization,
 * Cloud Computing, Big Data
-* Chess ♟️
+* [Chess](https://www.chess.com/stats/live/blitz/stgoa/0) ♟️
 
 
 ## **My Tech Stack**
