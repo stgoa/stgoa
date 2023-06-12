@@ -13,6 +13,7 @@
 
 * Machine/Deep Learning,
 * Mathematical Optimization,
+* Discrete/Combinatorial Algorithms,
 * Cloud Computing, Big Data
 * [Chess](https://www.chess.com/stats/live/blitz/stgoa/0) ♟️
 
