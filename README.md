@@ -15,7 +15,7 @@
 * Discrete/Combinatorial Algorithms,
 * Cloud Computing, Big Data
 * [Chess](https://www.chess.com/stats/live/blitz/stgoa/0) ♟️
-
+* Learning C++ 😊
 
 ## **My Tech Stack**
 
@@ -31,7 +31,7 @@
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-2311AB00?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-Learning C++ 😊
+
 
 ### Cloud
 
