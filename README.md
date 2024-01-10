@@ -14,7 +14,7 @@
 * Mathematical Optimization,
 * Discrete/Combinatorial Algorithms,
 * Cloud Computing, Big Data
-* [Chess](https://www.chess.com/stats/live/rapid/stgoa/0) ♟️
+* [Chess]([https://www.chess.com/stats/live/rapid/stgoa/0](https://lichess.org/@/stgoa)) ♟️
 * Learning C++ 😊
 
 ## **My Tech Stack**
